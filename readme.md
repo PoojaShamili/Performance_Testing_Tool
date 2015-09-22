@@ -1,4 +1,4 @@
-#Team 30 Project 1
+#Performance Testing Tool
 
 ##Description 
 
